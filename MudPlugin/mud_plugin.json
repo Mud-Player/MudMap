@@ -1,0 +1,13 @@
+﻿{
+    "Keys": ["mud"],
+    "Provider": "mud",
+    "Version": 100,
+    "Experimental": false,
+    "Features": [
+        "OnlineMappingFeature",
+        "OnlineGeocodingFeature",
+        "ReverseGeocodingFeature",
+        "OnlineRoutingFeature",
+        "OnlinePlacesFeature"
+    ]
+}
